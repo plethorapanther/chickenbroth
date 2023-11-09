@@ -55,7 +55,9 @@ function App(props) {
   }  
   
   
-  const taskList = tasks.map((task) => (
+  const taskList = tasks
+  .filter(FILTER_MAP[filter])
+  .map((task) => (
     <Todo
       id={task.id}
       name={task.name}
@@ -66,6 +68,7 @@ function App(props) {
       editTask={editTask}
     />
   ));
+
   
   const filterList = FILTER_NAMES.map((name) => (
     <FilterButton
