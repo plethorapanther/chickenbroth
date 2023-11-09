@@ -17,10 +17,10 @@ on my computer since I'm almost out of space already.
 
 First of all, cats are always entertaining, excuse you. But alright, here, have a limerick.
 
-In the realm where circuits entwine,
-A coder sought algorithms divine.
+In a realm where circuits entwine,
+A code sought algorithms divine. 
 With a keystroke or two,
-And a bug or a few,
+And a bug (or a few)
 Their code danced, a symphony of binary rhyme!
 
 And since I incredibly enough have the time for it, have a haiku about chicken broth, the main staple of my diet 
